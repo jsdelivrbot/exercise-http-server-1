@@ -1,1 +1,10 @@
-# exercise-http-server
+# Nashville Software Exercise: Node.JS Exercise
+
+## Requirements:
+
+Create a valid html file called `index.html`. It should contain an h1 saying: <br />
+"My First Node.js Web Server" and an image linking to the Node.js logo: <br />
+https://rawgit.com/nodejs/nodejs.org/886b30fde80f35fd0db98793f258d78a9ae0a997/static/images/logo-light.svg <br />
+<br />
+Create a Node.js server in a file called `server01.js`. Use the createServer method along with <br />
+the createReadStream method to pipe the html file to the browser. <br />
